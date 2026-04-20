@@ -6,13 +6,16 @@ body{
  margin:0 auto;
  }
 
+h1 {
+  color:#fff;
+}
 .header{
     width:90%;
     margin:auto;
     height:120px;
     line-height:120px;
     background:#C0C0C0;
-    color#fff;
+    color:#fff;
 }
 .jarak{
     padding:0 2pc;
